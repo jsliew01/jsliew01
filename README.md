@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsliew01
-- 👀 I’m interested in coding
+- 👀 I’m interested in BJJ
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on learning things
 - 📫 You can reach me via jsliew01@gmail.com
